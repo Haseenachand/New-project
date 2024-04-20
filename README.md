@@ -1,4 +1,4 @@
 # New-project
-this is new project
+This is new project
 <br>
 Author - Haseenachand
